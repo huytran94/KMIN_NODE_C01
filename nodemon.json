@@ -1,0 +1,13 @@
+{
+    "ignore": [
+      ".git",
+      "src/data/*"
+    ],
+    "verbose": true,
+    
+    "watch": [
+      "src",
+      "test/samples/"
+    ],
+    "delay": "500"
+  }

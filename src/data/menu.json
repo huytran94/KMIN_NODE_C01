@@ -1,0 +1,11 @@
+{
+  "menu": [
+    "Hiển thị danh sách bài viết: Hiển thị các bài viết dưới dạng bảng",
+    "Thêm một bài viết mới: Cho phép nhập vào thông tin của một bài viết và thêm bài viết ấy vào CSDL",
+    "Sửa bài viết: Cho phép nhập vào ID của bài viết cần sửa và tiến hành cập nhật bài viết.",
+    "Xóa bài viết: Cho phép nhập vào ID của bài viết cần xóa. Ứng dụng sẽ xóa bài viết có ID tương ứng.",
+    "Lọc theo chủ đề: Cho phép chọn chủ đề sẵn có. Ứng dụng sẽ hiển thị các bài viết tương thuộc chủ đề ấy.",
+    "Sắp xếp theo ngày cập nhật: Ứng dụng có thể sắp xếp tăng dần hoặc giảm dần.",
+    "Tìm kiếm theo nhiều tiêu chí: Người dùng nhập vào một từ khóa, ứng dụng sẽ hiển thị ra các bài viết liên quan đến từ khóa ấy. Thứ tự bài viết được hiển thị theo trình tự về mức độ trùng khớp của từ khoá ấy."
+  ]
+}
