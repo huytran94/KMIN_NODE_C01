@@ -6,6 +6,7 @@ const extractFileType = (fileName) => {
 
 const readFile = (fileName = "", ...pathSegments) => {
   try {
+    pathSegments = ["src", ...pathSegments];
     let filePath = path.resolve(...pathSegments, fileName);
     let fileData = fs.readFileSync(filePath);
     if (extractFileType(fileName) === "json") {
